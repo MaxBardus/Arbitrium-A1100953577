@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A1100953577</string>
+    <string-array name="italian">
+        <item>TerraPizza</item>
+        <item>Eden Pasta</item>
+        <item>Deonis</item>
+    </string-array>
+
+    <string-array name="japanese">
+        <item>Rasengan</item>
+        <item>Chidori</item>
+        <item>Edo Tensei</item>
+    </string-array>
+
+
+</resources>
